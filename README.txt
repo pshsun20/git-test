@@ -1,1 +1,1 @@
-GEN win
+GEN win2
