@@ -1,1 +1,1 @@
-GEN win2
+GEN win2 33
